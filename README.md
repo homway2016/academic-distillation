@@ -44,5 +44,6 @@ cp -r academic-paper-reviewer ~/.claude/skills/
 ## Credits
 
 - **上游项目**: [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — ARIS 完整版（含跨模型编排、13-agent 研究流水线）
+- **上游项目**: [Auto-claude-code-research-in-sleep-main] - 参考tool
 - **LaTeX 模板来源**: 各会议官方 Author Kit（NeurIPS / ICML / ICLR / AAAI / ACL / ACM / CVPR / IEEE）
 - **CLI 工具来源**: ARIS `tools/` 目录（已剥离内容，保留骨架 + 纯 stdlib 脚本）
